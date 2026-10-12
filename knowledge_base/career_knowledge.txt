@@ -1,0 +1,130 @@
+AI CAREER KNOWLEDGE BASE
+
+AI ENGINEER
+
+An AI Engineer builds applications using artificial intelligence and machine learning.
+
+Important skills:
+Python
+Machine Learning
+Deep Learning
+Artificial Intelligence
+NLP
+Computer Vision
+TensorFlow
+PyTorch
+SQL
+
+Recommended projects:
+AI Career Assistant
+Resume Analyzer
+Image Classification System
+Chatbot
+Recommendation System
+
+Career path:
+Python → Mathematics → Machine Learning → Deep Learning → NLP/Computer Vision → Generative AI → Deployment
+
+
+MACHINE LEARNING ENGINEER
+
+A Machine Learning Engineer develops, trains, evaluates and deploys machine learning models.
+
+Important skills:
+Python
+NumPy
+Pandas
+Scikit-learn
+Machine Learning
+Deep Learning
+SQL
+Statistics
+Model Deployment
+
+Recommended projects:
+House Price Prediction
+Customer Churn Prediction
+Fraud Detection
+Recommendation System
+Image Classification
+
+
+DATA SCIENTIST
+
+A Data Scientist uses data analysis, statistics and machine learning to solve business problems.
+
+Important skills:
+Python
+Pandas
+NumPy
+SQL
+Statistics
+Machine Learning
+Data Visualization
+Scikit-learn
+
+Recommended projects:
+Sales Prediction
+Customer Segmentation
+Customer Churn Analysis
+Fraud Detection
+
+
+GENAI ENGINEER
+
+A Generative AI Engineer develops applications using large language models and generative AI.
+
+Important skills:
+Python
+Machine Learning
+Deep Learning
+NLP
+LLMs
+Prompt Engineering
+Embeddings
+Vector Databases
+RAG
+Fine-tuning
+
+Recommended projects:
+RAG Chatbot
+AI Resume Assistant
+Document Question Answering System
+AI Interview Assistant
+
+
+BACKEND DEVELOPER
+
+A Backend Developer builds server-side applications, APIs and database systems.
+
+Important skills:
+Python
+FastAPI
+Django
+REST APIs
+SQL
+Databases
+Authentication
+Git
+Docker
+
+Recommended projects:
+E-commerce API
+Student Management System
+Job Portal Backend
+Authentication System
+
+
+HOW TO BUILD A STRONG AI/ML RESUME
+
+A strong AI/ML resume should contain:
+1. Programming skills
+2. Machine learning projects
+3. Real-world problem solving
+4. GitHub projects
+5. Internships or practical experience
+6. Relevant certifications
+7. Clear project descriptions
+8. Measurable results when available
+
+For students, projects should demonstrate both technical knowledge and practical implementation.
