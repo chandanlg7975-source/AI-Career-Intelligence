@@ -7,3 +7,5 @@ python-multipart
 bcrypt
 PyMuPDF
 scikit-learn
+python-dotenv
+tavily-python
